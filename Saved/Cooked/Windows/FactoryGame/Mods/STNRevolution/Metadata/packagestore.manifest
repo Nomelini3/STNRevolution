@@ -1,0 +1,581 @@
+{
+	"Files": [
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Categories/Cat_Consumables.uasset",
+			"ChunkId": "fc4c6c55844be0e200000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/Bacon_Agaric.uasset",
+			"ChunkId": "4e0fbe62585ab4fd00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/Bacon_Agaric.ubulk",
+			"ChunkId": "4e0fbe62585ab4fd00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/Beryl_Nut.uasset",
+			"ChunkId": "69b3910047c43b2b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/Beryl_Nut.ubulk",
+			"ChunkId": "69b3910047c43b2b00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/blue-power-slug_256.uasset",
+			"ChunkId": "9b5563d42b7b49ff00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/blue-power-slug_256.ubulk",
+			"ChunkId": "9b5563d42b7b49ff00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/FlowerPetals_Final_256.uasset",
+			"ChunkId": "9ee0dc1693c0e4c500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/FlowerPetals_Final_256.ubulk",
+			"ChunkId": "9ee0dc1693c0e4c500000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/Hatcher_Remains.uasset",
+			"ChunkId": "eebcfb2e7d4be36c00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/Hatcher_Remains.ubulk",
+			"ChunkId": "eebcfb2e7d4be36c00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/Hog_Remains.uasset",
+			"ChunkId": "e7e621f213f8a98100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/Hog_Remains.ubulk",
+			"ChunkId": "e7e621f213f8a98100000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/IconDesc_Leaves_256.uasset",
+			"ChunkId": "7d569e81baaa14d500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/IconDesc_Leaves_256.ubulk",
+			"ChunkId": "7d569e81baaa14d500000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/IconDesc_Mycelia_256.uasset",
+			"ChunkId": "f782126183cf81b000000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/IconDesc_Mycelia_256.ubulk",
+			"ChunkId": "f782126183cf81b000000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/IconDesc_Wood_256.uasset",
+			"ChunkId": "7eac1fadfcde5ed000000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/IconDesc_Wood_256.ubulk",
+			"ChunkId": "7eac1fadfcde5ed000000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/Paleberry.uasset",
+			"ChunkId": "b94b2aa9234ad3cb00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/Paleberry.ubulk",
+			"ChunkId": "b94b2aa9234ad3cb00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/Plasma_Spitter_Remains.uasset",
+			"ChunkId": "1e9b3425a68d484b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/Plasma_Spitter_Remains.ubulk",
+			"ChunkId": "1e9b3425a68d484b00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/purple-power-slug_256.uasset",
+			"ChunkId": "e074765def7293c000000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/purple-power-slug_256.ubulk",
+			"ChunkId": "e074765def7293c000000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/SAMOre_256.uasset",
+			"ChunkId": "fa011bb1adee98af00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/SAMOre_256.ubulk",
+			"ChunkId": "fa011bb1adee98af00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/Stinger_Remains.uasset",
+			"ChunkId": "d92f99a659df766a00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/Stinger_Remains.ubulk",
+			"ChunkId": "d92f99a659df766a00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/yellow-power-slug_256.uasset",
+			"ChunkId": "ed7b5873f19477ca00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Icons/yellow-power-slug_256.ubulk",
+			"ChunkId": "ed7b5873f19477ca00000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Recipes/Recipe_BaconAgaric.uasset",
+			"ChunkId": "0b24a160652f0df500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Recipes/Recipe_BerylNut.uasset",
+			"ChunkId": "58f8904baee8c0e500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Recipes/Recipe_BluePowerSlug.uasset",
+			"ChunkId": "4df396c080ea64f200000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Recipes/Recipe_FlowerPetals.uasset",
+			"ChunkId": "83cc4731af28f98300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Recipes/Recipe_HatcherParts.uasset",
+			"ChunkId": "fc7d44e27010352000000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Recipes/Recipe_HogParts.uasset",
+			"ChunkId": "bf7791750228124800000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Recipes/Recipe_Leaves.uasset",
+			"ChunkId": "e8fafaccad730bdd00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Recipes/Recipe_Mycelia.uasset",
+			"ChunkId": "c4f109a3c411e8f300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Recipes/Recipe_Paleberry.uasset",
+			"ChunkId": "b8d74b83a4be573700000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Recipes/Recipe_PurplePowerSlug.uasset",
+			"ChunkId": "a7ddd32dabfdac7600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Recipes/Recipe_SpitterParts.uasset",
+			"ChunkId": "5a5d5893debfdd0000000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Recipes/Recipe_StingerParts.uasset",
+			"ChunkId": "9715f29ca051585300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Recipes/Recipe_Wood.uasset",
+			"ChunkId": "41bbc694f7cc6bde00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Recipes/Recipe_YellowPowerSlug.uasset",
+			"ChunkId": "6e711fac7700253800000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/RootGameWorld_STNRevolution.uasset",
+			"ChunkId": "055f0bb0bc0c187c00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Schematics/MAM/BPD_ResearchTree_STNRevolution.uasset",
+			"ChunkId": "8efb40fc27ff5f2400000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Schematics/MAM/Research_BaconAgaric.uasset",
+			"ChunkId": "bf0208fc9463605200000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Schematics/MAM/Research_BerylNut.uasset",
+			"ChunkId": "023a544d3cc8bd3c00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Schematics/MAM/Research_BluePowerSlug.uasset",
+			"ChunkId": "dd31a48f426d111300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Schematics/MAM/Research_FlowerPetals.uasset",
+			"ChunkId": "5b3e083361f52e9b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Schematics/MAM/Research_HatcherParts.uasset",
+			"ChunkId": "55f77ba4d16a3be900000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Schematics/MAM/Research_HogParts.uasset",
+			"ChunkId": "6c29a45122f58f4f00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Schematics/MAM/Research_Leaves.uasset",
+			"ChunkId": "8d7532b605d09ff600000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Schematics/MAM/Research_Mycelia.uasset",
+			"ChunkId": "a9ee6dd714a23c5e00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Schematics/MAM/Research_Paleberry.uasset",
+			"ChunkId": "2781cd19b0eacdde00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Schematics/MAM/Research_PurplePowerSlug.uasset",
+			"ChunkId": "3aab80b3c875130100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Schematics/MAM/Research_SAM_Ore.uasset",
+			"ChunkId": "217e527f3b35537c00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Schematics/MAM/Research_SpitterParts.uasset",
+			"ChunkId": "875553f690c5247e00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Schematics/MAM/Research_StingerParts.uasset",
+			"ChunkId": "f3e02faaf8720f0f00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Schematics/MAM/Research_Wood.uasset",
+			"ChunkId": "7ce41b3bae574e7200000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/STNRevolution/Content/Schematics/MAM/Research_YellowPowerSlug.uasset",
+			"ChunkId": "a18b179581d1526c00000001"
+		}
+	],
+	"Packages": [
+		{
+			"Name": "/STNRevolution/Categories/Cat_Consumables",
+			"ExportBundleChunkIds": [
+				"fc4c6c55844be0e200000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Icons/Bacon_Agaric",
+			"ExportBundleChunkIds": [
+				"4e0fbe62585ab4fd00000001"
+			],
+			"BulkDataChunkIds": [
+				"4e0fbe62585ab4fd00000002"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Icons/Beryl_Nut",
+			"ExportBundleChunkIds": [
+				"69b3910047c43b2b00000001"
+			],
+			"BulkDataChunkIds": [
+				"69b3910047c43b2b00000002"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Icons/blue-power-slug_256",
+			"ExportBundleChunkIds": [
+				"9b5563d42b7b49ff00000001"
+			],
+			"BulkDataChunkIds": [
+				"9b5563d42b7b49ff00000002"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Icons/FlowerPetals_Final_256",
+			"ExportBundleChunkIds": [
+				"9ee0dc1693c0e4c500000001"
+			],
+			"BulkDataChunkIds": [
+				"9ee0dc1693c0e4c500000002"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Icons/Hatcher_Remains",
+			"ExportBundleChunkIds": [
+				"eebcfb2e7d4be36c00000001"
+			],
+			"BulkDataChunkIds": [
+				"eebcfb2e7d4be36c00000002"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Icons/Hog_Remains",
+			"ExportBundleChunkIds": [
+				"e7e621f213f8a98100000001"
+			],
+			"BulkDataChunkIds": [
+				"e7e621f213f8a98100000002"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Icons/IconDesc_Leaves_256",
+			"ExportBundleChunkIds": [
+				"7d569e81baaa14d500000001"
+			],
+			"BulkDataChunkIds": [
+				"7d569e81baaa14d500000002"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Icons/IconDesc_Mycelia_256",
+			"ExportBundleChunkIds": [
+				"f782126183cf81b000000001"
+			],
+			"BulkDataChunkIds": [
+				"f782126183cf81b000000002"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Icons/IconDesc_Wood_256",
+			"ExportBundleChunkIds": [
+				"7eac1fadfcde5ed000000001"
+			],
+			"BulkDataChunkIds": [
+				"7eac1fadfcde5ed000000002"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Icons/Paleberry",
+			"ExportBundleChunkIds": [
+				"b94b2aa9234ad3cb00000001"
+			],
+			"BulkDataChunkIds": [
+				"b94b2aa9234ad3cb00000002"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Icons/Plasma_Spitter_Remains",
+			"ExportBundleChunkIds": [
+				"1e9b3425a68d484b00000001"
+			],
+			"BulkDataChunkIds": [
+				"1e9b3425a68d484b00000002"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Icons/purple-power-slug_256",
+			"ExportBundleChunkIds": [
+				"e074765def7293c000000001"
+			],
+			"BulkDataChunkIds": [
+				"e074765def7293c000000002"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Icons/SAMOre_256",
+			"ExportBundleChunkIds": [
+				"fa011bb1adee98af00000001"
+			],
+			"BulkDataChunkIds": [
+				"fa011bb1adee98af00000002"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Icons/Stinger_Remains",
+			"ExportBundleChunkIds": [
+				"d92f99a659df766a00000001"
+			],
+			"BulkDataChunkIds": [
+				"d92f99a659df766a00000002"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Icons/yellow-power-slug_256",
+			"ExportBundleChunkIds": [
+				"ed7b5873f19477ca00000001"
+			],
+			"BulkDataChunkIds": [
+				"ed7b5873f19477ca00000002"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Recipes/Recipe_BaconAgaric",
+			"ExportBundleChunkIds": [
+				"0b24a160652f0df500000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Recipes/Recipe_BerylNut",
+			"ExportBundleChunkIds": [
+				"58f8904baee8c0e500000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Recipes/Recipe_BluePowerSlug",
+			"ExportBundleChunkIds": [
+				"4df396c080ea64f200000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Recipes/Recipe_FlowerPetals",
+			"ExportBundleChunkIds": [
+				"83cc4731af28f98300000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Recipes/Recipe_HatcherParts",
+			"ExportBundleChunkIds": [
+				"fc7d44e27010352000000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Recipes/Recipe_HogParts",
+			"ExportBundleChunkIds": [
+				"bf7791750228124800000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Recipes/Recipe_Leaves",
+			"ExportBundleChunkIds": [
+				"e8fafaccad730bdd00000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Recipes/Recipe_Mycelia",
+			"ExportBundleChunkIds": [
+				"c4f109a3c411e8f300000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Recipes/Recipe_Paleberry",
+			"ExportBundleChunkIds": [
+				"b8d74b83a4be573700000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Recipes/Recipe_PurplePowerSlug",
+			"ExportBundleChunkIds": [
+				"a7ddd32dabfdac7600000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Recipes/Recipe_SpitterParts",
+			"ExportBundleChunkIds": [
+				"5a5d5893debfdd0000000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Recipes/Recipe_StingerParts",
+			"ExportBundleChunkIds": [
+				"9715f29ca051585300000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Recipes/Recipe_Wood",
+			"ExportBundleChunkIds": [
+				"41bbc694f7cc6bde00000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Recipes/Recipe_YellowPowerSlug",
+			"ExportBundleChunkIds": [
+				"6e711fac7700253800000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/RootGameWorld_STNRevolution",
+			"ExportBundleChunkIds": [
+				"055f0bb0bc0c187c00000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Schematics/MAM/BPD_ResearchTree_STNRevolution",
+			"ExportBundleChunkIds": [
+				"8efb40fc27ff5f2400000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Schematics/MAM/Research_BaconAgaric",
+			"ExportBundleChunkIds": [
+				"bf0208fc9463605200000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Schematics/MAM/Research_BerylNut",
+			"ExportBundleChunkIds": [
+				"023a544d3cc8bd3c00000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Schematics/MAM/Research_BluePowerSlug",
+			"ExportBundleChunkIds": [
+				"dd31a48f426d111300000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Schematics/MAM/Research_FlowerPetals",
+			"ExportBundleChunkIds": [
+				"5b3e083361f52e9b00000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Schematics/MAM/Research_HatcherParts",
+			"ExportBundleChunkIds": [
+				"55f77ba4d16a3be900000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Schematics/MAM/Research_HogParts",
+			"ExportBundleChunkIds": [
+				"6c29a45122f58f4f00000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Schematics/MAM/Research_Leaves",
+			"ExportBundleChunkIds": [
+				"8d7532b605d09ff600000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Schematics/MAM/Research_Mycelia",
+			"ExportBundleChunkIds": [
+				"a9ee6dd714a23c5e00000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Schematics/MAM/Research_Paleberry",
+			"ExportBundleChunkIds": [
+				"2781cd19b0eacdde00000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Schematics/MAM/Research_PurplePowerSlug",
+			"ExportBundleChunkIds": [
+				"3aab80b3c875130100000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Schematics/MAM/Research_SAM_Ore",
+			"ExportBundleChunkIds": [
+				"217e527f3b35537c00000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Schematics/MAM/Research_SpitterParts",
+			"ExportBundleChunkIds": [
+				"875553f690c5247e00000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Schematics/MAM/Research_StingerParts",
+			"ExportBundleChunkIds": [
+				"f3e02faaf8720f0f00000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Schematics/MAM/Research_Wood",
+			"ExportBundleChunkIds": [
+				"7ce41b3bae574e7200000001"
+			]
+		},
+		{
+			"Name": "/STNRevolution/Schematics/MAM/Research_YellowPowerSlug",
+			"ExportBundleChunkIds": [
+				"a18b179581d1526c00000001"
+			]
+		}
+	]
+}

@@ -1,0 +1,2 @@
+FactoryGame/Mods/STNRevolution/STNRevolution.uplugin	2023-11-24T04:16:13.848Z
+FactoryGame/Mods/STNRevolution/Resources/Icon128.png	2023-06-18T05:18:59.170Z
